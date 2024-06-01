@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aquamarine;
+    display: flex;
+    min-height: 100vh;
+   
+}
+
+.form{
+    background-color: antiquewhite;
+    margin: auto;
+    width: 90%;
+    max-width: 300px;
+    padding: 2.0cm 1cm;
+    border-radius: 15px;
+    box-shadow: 0 5px 10px -5px;
+    text-align: center;
+
+}
+
+.form_tittle{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.form_paragraph{
+    font-weight: 600;
+}
+
+.form_submit{
+    width: 80px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: 600;
+    
+    
+    
+
+}
+
+
+.form_link{
+    font-weight: 400;
+    color:blueviolet;
+    
+}
+
+.form_container{
+   
+
+}
