@@ -1,0 +1,24 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1e9;
+   
+}
+
+/* Pie de página */
+footer {
+    background-color: #4a8ce2;
+    text-align: center;
+    padding: 20px 0;
+    color: black;
+
+}
+
+.d-flex{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ebeadf;
+
+}
